@@ -70,4 +70,61 @@ The label for the 1 centroid is 9 with 867 elements
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 The label for the 2 centroid is 2 with 701 elements
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-The label for the 3 centroid 
+The label for the 3 centroid is 0 with 879 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The label for the 4 centroid is 3 with 798 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The label for the 5 centroid is 1 with 997 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+============================================================
+ - - - - - - - This is Iteration no 7 ---------------------
+============================================================
+The label for the 1 centroid is 3 with 856 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The label for the 2 centroid is 0 with 907 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The label for the 3 centroid is 7 with 640 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The label for the 4 centroid is 4 with 587 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The label for the 5 centroid is 1 with 1127 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+============================================================
+ - - - - - - - This is Iteration no 8 ---------------------
+============================================================
+The label for the 1 centroid is 6 with 802 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The label for the 2 centroid is 3 with 870 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The label for the 3 centroid is 0 with 851 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The label for the 4 centroid is 9 with 889 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The label for the 5 centroid is 1 with 1126 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+============================================================
+ - - - - - - - This is Iteration no 9 ---------------------
+============================================================
+The label for the 1 centroid is 3 with 855 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The label for the 2 centroid is 4 with 574 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The label for the 3 centroid is 0 with 911 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The label for the 4 centroid is 7 with 631 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The label for the 5 centroid is 1 with 1127 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+============================================================
+ - - - - - - - This is Iteration no 10 ---------------------
+============================================================
+The label for the 1 centroid is 6 with 805 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The label for the 2 centroid is 1 with 1132 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The label for the 3 centroid is 4 with 545 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The label for the 4 centroid is 7 with 625 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+The label for the 5 centroid is 0 with 868 elements
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
